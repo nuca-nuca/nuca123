@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7f0069e-9750-4eff-888e-1845c921373d" name="Default Changelist" comment="" />
+    <list default="true" id="c7f0069e-9750-4eff-888e-1845c921373d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index1.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,10 +15,15 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ifnalhIukDPBsvb6BrVB4UXPM3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,9 +32,15 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Admin\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c7f0069e-9750-4eff-888e-1845c921373d" name="Default Changelist" comment="" />
@@ -34,16 +49,45 @@
       <option name="presentableId" value="Default" />
       <updated>1602307583881</updated>
       <workItem from="1602307586224" duration="588000" />
+      <workItem from="1602466018375" duration="10698000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1602466337529">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602466337529" />
+    <state x="838" y="415" key="Github.ShareDialog" timestamp="1602467230369">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="415" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602467230369" />
+    <state x="779" y="223" key="Github.UntrackedFilesDialog" timestamp="1602467238588">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="779" y="223" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602467238588" />
+    <state x="552" y="251" key="Vcs.Push.Dialog.v2" timestamp="1602478346043">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602478346043" />
     <state x="623" y="239" key="search.everywhere.popup" timestamp="1602307648771">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="239" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602307648771" />
+    <state x="790" y="309" key="svn.repositoryBrowser" timestamp="1602466323247">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="309" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1602466323247" />
+    <state x="821" y="292" key="svn4idea.import.options" timestamp="1602466311419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="821" y="292" key="svn4idea.import.options/0.0.1920.1040@0.0.1920.1040" timestamp="1602466311419" />
   </component>
 </project>
